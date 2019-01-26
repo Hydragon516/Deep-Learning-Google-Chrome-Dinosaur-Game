@@ -6,3 +6,4 @@ keras
 keyboard
 Pillow
 pandas
+opencv-python
