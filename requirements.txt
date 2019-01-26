@@ -1,0 +1,8 @@
+numpy
+matplotlib
+cython
+tensorflow-gpu
+keras
+keyboard
+Pillow
+pandas
