@@ -9,8 +9,8 @@ model = load_model('dino.h5')
 
 template1 = cv.imread('images/cactus1.png', 0)
 template2 = cv.imread('images/cactus2.png', 0)
-template3 = cv.imread('images/buird1.png', 0)
-template4 = cv.imread('images/buird2.png', 0)
+template3 = cv.imread('images/bird1.png', 0)
+template4 = cv.imread('images/bird2.png', 0)
 w1, h1 = template1.shape[::-1]
 w2, h2 = template1.shape[::-1]
 w3, h3 = template1.shape[::-1]
