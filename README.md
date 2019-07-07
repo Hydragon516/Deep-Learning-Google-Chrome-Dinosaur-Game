@@ -25,3 +25,5 @@ Python 3.5, CUDA 9.0, cudnn 7.3.1 and other common packages listed in `requireme
 
 ### 4. AI_play.py
 - Load model and automatic play.
+
+![test](./images/test.gif)
